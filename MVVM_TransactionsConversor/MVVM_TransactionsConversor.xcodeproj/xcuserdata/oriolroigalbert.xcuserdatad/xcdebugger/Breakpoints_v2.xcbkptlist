@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4A4BF201-F003-4586-824F-E814AACDDE3A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3719EC6-5B9F-4274-9A71-963F08A0B49E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM_TransactionsConversor/ViewControllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "callToViewModelForUIUpdate()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C87FE27-817E-4F77-BF58-CB8DC642C079"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM_TransactionsConversor/WebServices/ApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "apiToGetRatesData(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9A2B4124-A8BF-401B-8217-2F0FB86568AC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM_TransactionsConversor/WebServices/ApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "apiToGetTransactionsData(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "07DBAA22-5244-4F99-B76F-6317ADC86862"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM_TransactionsConversor/ViewControllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "updateDataSource()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4BC60C8C-21B2-4B09-BF7D-A7D0671B875C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM_TransactionsConversor/ViewControllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "updateDataSource()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "596CF5C7-84EB-4A15-AB46-AE0BB2641A5A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM_TransactionsConversor/ViewModel/TransactionsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "groupTransactionData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "820F20C3-05C2-4E5D-89EA-D1F0FC8106A9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM_TransactionsConversor/ViewControllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "updateDataSource()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "820F20C3-05C2-4E5D-89EA-D1F0FC8106A9 - 2b2eed176e51aa24"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (MVVM_TransactionsConversor.TransactionTableViewCell, MVVM_TransactionsConversor.TransactionData) -&gt; () in closure #1 @Swift.MainActor () -&gt; () in MVVM_TransactionsConversor.ViewController.updateDataSource() -&gt; ()"
+                  moduleName = "MVVM_TransactionsConversor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oriolroigalbert/Downloads/MVVM_TransactionsConversor/MVVM_TransactionsConversor/ViewControllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "700">
+               </Location>
+               <Location
+                  uuid = "820F20C3-05C2-4E5D-89EA-D1F0FC8106A9 - 2b2eed176e51aa24"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (MVVM_TransactionsConversor.TransactionTableViewCell, MVVM_TransactionsConversor.TransactionData) -&gt; () in closure #1 @Swift.MainActor () -&gt; () in MVVM_TransactionsConversor.ViewController.updateDataSource() -&gt; ()"
+                  moduleName = "MVVM_TransactionsConversor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oriolroigalbert/Downloads/MVVM_TransactionsConversor/MVVM_TransactionsConversor/ViewControllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "736">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF38F6EB-6E34-48D8-A111-09322DE23B34"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM_TransactionsConversor/ViewControllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "updateDataSource()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EF38F6EB-6E34-48D8-A111-09322DE23B34 - faa06841d9e1ddfa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in MVVM_TransactionsConversor.ViewController.updateDataSource() -&gt; ()"
+                  moduleName = "MVVM_TransactionsConversor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oriolroigalbert/Downloads/MVVM_TransactionsConversor/MVVM_TransactionsConversor/ViewControllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "EF38F6EB-6E34-48D8-A111-09322DE23B34 - 2b2eed176e51aa62"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (MVVM_TransactionsConversor.TransactionTableViewCell, MVVM_TransactionsConversor.TransactionData) -&gt; () in closure #1 @Swift.MainActor () -&gt; () in MVVM_TransactionsConversor.ViewController.updateDataSource() -&gt; ()"
+                  moduleName = "MVVM_TransactionsConversor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oriolroigalbert/Downloads/MVVM_TransactionsConversor/MVVM_TransactionsConversor/ViewControllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3FA5257-A859-4D01-9328-359575A2B165"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM_TransactionsConversor/ViewControllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "updateDataSource()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B3FA5257-A859-4D01-9328-359575A2B165 - 35b8ff0b10e7676a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVM_TransactionsConversor.ViewController.updateDataSource() -&gt; ()"
+                  moduleName = "MVVM_TransactionsConversor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oriolroigalbert/Downloads/MVVM_TransactionsConversor/MVVM_TransactionsConversor/ViewControllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "B3FA5257-A859-4D01-9328-359575A2B165 - faa06841d9e1ddfa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in MVVM_TransactionsConversor.ViewController.updateDataSource() -&gt; ()"
+                  moduleName = "MVVM_TransactionsConversor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oriolroigalbert/Downloads/MVVM_TransactionsConversor/MVVM_TransactionsConversor/ViewControllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "98DFF869-65E6-48ED-BEC0-5FD5C92A0465"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM_TransactionsConversor/ViewModel/TransactionsTableViewDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "init(cellIdentifier:items:configureCell:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F1366AC9-70CE-4AED-9D8D-591B70E86F59"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM_TransactionsConversor/ViewModel/TransactionsTableViewDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "init(cellIdentifier:items:configureCell:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3E781194-F711-48F4-848C-9D49275E0704"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM_TransactionsConversor/ViewModel/TransactionsTableViewDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "init(cellIdentifier:items:configureCell:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D372CD1-AE79-454C-9871-C2EC8BBECC29"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM_TransactionsConversor/ViewControllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "updateDataSource()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
